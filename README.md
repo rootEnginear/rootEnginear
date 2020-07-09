@@ -1,16 +1,15 @@
-### Hi there 👋
+# Howdy 😄!
 
-<!--
-**rootEnginear/rootEnginear** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Good to see you! Apart from my name, you may call me Mumú. I'm 3rd year computer-engineering student at King Mongkut's University of Technology Thonburi (KMUTT).
 
-Here are some ideas to get you started:
+## 🔥 Technology Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am proficient in HTML & CSS, JavaScript, Vue.js. I somewhat have experienced with SCSS, Firebase, SQL, UI/UX Designing. Also, I am familiar with Git, TypeScript, React.js, and Node.js.
+
+## 📰 Personal Blog
+
+I write articles about technologies and subjects I have learned in my university. You may visit [https://rootenginear.github.io/blog](https://rootenginear.github.io/blog) to read them 😉.
+
+## ✨ My works
+
+Below this are my "proud to present" works you can check out 👇.
