@@ -1,6 +1,6 @@
-# Howdy 😄!
+# 😄 Howdy!
 
-Good to see you! I'm 3rd year computer-engineering student at King Mongkut's University of Technology Thonburi (KMUTT) who love to do "frontend-web" thing.
+Good to see you! I'm 3rd year computer-engineering student at King Mongkut's University of Technology Thonburi (KMUTT) who love to do "frontend-web" thing 👨‍💻.
 
 ## 🔥 Technology Skills
 
