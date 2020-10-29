@@ -1,11 +1,11 @@
-# 😄 Howdy!
+# 🦄&#xFE0F; Hello!
 
-Good to see you! I'm 3rd year computer-engineering student at King Mongkut's University of Technology Thonburi (KMUTT) who love to do "frontend-web" thing 👨‍💻.
+I am a 3rd-year computer-engineering student who is very attentive to every detail. Any untidy elements by any pixels cannot bypass my sharp, neat, eagle eyes. Still, I am friendly and reasonably rational. 👨‍💻️
 
-## 🔥 Technology Skills
+## 🔮&#xFE0F; Technological Skills
 
-I am proficient in HTML & CSS, JavaScript, Vue.js. I somewhat have experienced with SCSS, Firebase, SQL, UI/UX Designing. Also, I am familiar with Git, TypeScript, React.js, and Node.js.
+I am proficient in HTML & CSS, JavaScript, Vue.js. I somewhat have experienced with SCSS, Firebase, SQL, UI/UX Designing, and Git. Also, I am familiar with TypeScript, React.js, and Node.js.
 
-## ✨ My works
+## 🕹&#xFE0F; My works
 
-Below this are my "proud to present" works you can check out 👇.
+Below this is some of my works you can check out 👇.
