@@ -13,8 +13,8 @@ I am proficient in HTML & CSS, JavaScript, Vue.js. I somewhat have experienced w
     <img src="https://github-readme-stats.vercel.app/api?username=rootenginear&show_icons=true&hide=issues" alt="rootEnginear's GitHub Stats" />
   </picture>
   <picture>
-    <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=rootenginear&layout=compact&langs_count=7&hide=TSQL&theme=react" media="(prefers-color-scheme: dark)" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rootenginear&layout=compact&langs_count=7&hide=TSQL" alt="rootEnginear's Most Used Languages" />
+    <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=rootenginear&layout=compact&langs_count=6&hide=TSQL&theme=react" media="(prefers-color-scheme: dark)" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rootenginear&layout=compact&langs_count=6&hide=TSQL" alt="rootEnginear's Most Used Languages" />
   </picture>
 </p>
 
