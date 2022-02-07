@@ -1,23 +1,31 @@
+<img title="Yo!" align="right" height="200" width="200" alt="" loading="lazy" decoding="async" src="https://raw.githubusercontent.com/rootEnginear/rootEnginear/master/img/nocap.png"/>
+
 # 🦄&#xFE0F; Hello!
 
-A 4th-year computer-engineering student who is very attentive to every detail. Any untidy elements by any pixels cannot bypass his sharp, neat, eagle eyes. Still, he is very friendly and reasonable. 👨‍💻️
+💪&#xFE0F; Pumped and full of energy! My expertise is about crafting pixel-perfect websites from designs. When I don't code, I love introducing people to the realm of web development and discussing newly available technological tools on the market. Apart from that, I'm a big fan of Quantum Computing, and am currently working on my graduation project about that! 👨‍💻&#xFE0F;
 
 ## 🔮&#xFE0F; Technological Skills
 
-I am proficient in HTML & CSS, JavaScript, React.js. I somewhat have experienced with SCSS, TypeScript, and Git. Also, I am familiar with other frontend frameworks, Firebase, and Node.js.
+- 🔥️&#xFE0F; **Proficient in:** HTML & CSS, JavaScript, React.js (Next.js, Styled Components)
+- 👍️&#xFE0F; **Experienced with:** SCSS/SASS, TypeScript, Git
+- 👌️&#xFE0F; **Familiar with:** Vue.js (CLI, Router, Vuex, Nuxt), Svelte, Node.js, SQL, RDBMS (MySQL, MariaDB)
+- 🤸‍♂️️&#xFE0F; **Other interests:** UI/UX, Artificial Intelligences, Quantum Computing
 
-## 📊&#xFE0F; Stats
-<p>
-  <picture>
-    <source srcset="https://github-readme-stats.vercel.app/api?username=rootenginear&show_icons=true&hide=issues&theme=react" media="(prefers-color-scheme: dark)" />
-    <img src="https://github-readme-stats.vercel.app/api?username=rootenginear&show_icons=true&hide=issues" alt="rootEnginear's GitHub Stats" />
-  </picture>
-  <picture>
-    <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=rootenginear&layout=compact&langs_count=6&hide=TSQL&theme=react" media="(prefers-color-scheme: dark)" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rootenginear&layout=compact&langs_count=6&hide=TSQL" alt="rootEnginear's Most Used Languages" />
-  </picture>
-</p>
+<a href="https://www.credly.com/badges/a27f9afe-1728-4784-abc8-4a97ee3b794b/public_url" target="_blank" rel="nofollow noopener noreferrer" title="https://www.credly.com/badges/a27f9afe-1728-4784-abc8-4a97ee3b794b/public_url">
+  <img align="right" height="150" width="150" alt="" loading="lazy" decoding="async" src="https://rootenginear.github.io/img/qiskit-badge.webp" />
+</a>
 
-## 🕹&#xFE0F; My works
+## 🏆️&#xFE0F; Achievements
 
-Below this is some of my works you can check out 👇.
+- IBM Certified Associate Developer in Quantum Computation using Qiskit v0.2x 
+- Outstanding Award in 18th Young Webmaster Camp
+
+## 📰 Articles
+
+- [อยากรู้พื้นฐาน Quantum Computing? งั้นก็ลองสร้างมันขึ้นมาสิ!](https://rootenginear.gitbook.io/blog/qcom/qsim)
+
+Find out what I have learned in my university year and more interesting things on [my blog](https://rootenginear.gitbook.io/blog/)!
+
+## 🕹&#xFE0F; Interesting Projects
+
+Check out these poggers 👇&#xFE0F;
