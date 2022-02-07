@@ -2,7 +2,7 @@
 
 # 🦄&#xFE0F; Hello!
 
-💪&#xFE0F; Pumped and full of energy! My expertise is about crafting pixel-perfect websites from designs. When I don't code, I love introducing people to the realm of web development and discussing newly available technological tools on the market. Apart from that, I'm a big fan of Quantum Computing, and am currently working on my graduation project about that! 👨‍💻&#xFE0F;
+💪&#xFE0F; **Pumped and full of energy!** My expertise is about crafting pixel-perfect websites from designs. When I don't code, I love introducing people to the realm of web development and discussing newly available technological tools on the market. Apart from that, I'm a big fan of Quantum Computing, and am currently working on my graduation project about that! 👨‍💻&#xFE0F;
 
 ## 🔮&#xFE0F; Technological Skills
 
@@ -20,7 +20,7 @@
 - IBM Certified Associate Developer in Quantum Computation using Qiskit v0.2x 
 - Outstanding Award in 18th Young Webmaster Camp
 
-## 📰 Articles
+## 📰&#xFE0F; Articles
 
 - [อยากรู้พื้นฐาน Quantum Computing? งั้นก็ลองสร้างมันขึ้นมาสิ!](https://rootenginear.gitbook.io/blog/qcom/qsim)
 
