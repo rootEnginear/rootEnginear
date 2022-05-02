@@ -7,8 +7,8 @@
 ## 🔮&#xFE0F; Technological Skills
 
 - 🔥️&#xFE0F; **Proficient in:** HTML & CSS, JavaScript, React.js (Next.js, Styled Components)
-- 👍️&#xFE0F; **Experienced with:** SCSS/SASS, TypeScript, Git
-- 👌️&#xFE0F; **Familiar with:** Vue.js (CLI, Router, Vuex, Nuxt), Svelte, Node.js, SQL, RDBMS (MySQL, MariaDB)
+- 👍️&#xFE0F; **Experienced with:** TypeScript, Svelte, Vue.js, SCSS, Git
+- 👌️&#xFE0F; **Familiar with:** Firebase, SQL, RDBMS (MySQL, MariaDB), Node.js
 - 🤸‍♂️️&#xFE0F; **Other interests:** UI/UX, Artificial Intelligences, Quantum Computing
 
 <a href="https://www.credly.com/badges/a27f9afe-1728-4784-abc8-4a97ee3b794b/public_url" target="_blank" rel="nofollow noopener noreferrer" title="https://www.credly.com/badges/a27f9afe-1728-4784-abc8-4a97ee3b794b/public_url">
