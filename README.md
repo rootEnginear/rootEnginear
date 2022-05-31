@@ -11,6 +11,8 @@
 - 👌️&#xFE0F; **Familiar with:** Firebase, SQL, RDBMS (MySQL, MariaDB), Node.js
 - 🤸‍♂️️&#xFE0F; **Other interests:** UI/UX, Artificial Intelligences, Quantum Computing
 
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nextjs,styledcomponents,ts,svelte,vue,scss,git,firebase,mysql,nodejs)](https://skillicons.dev)
+
 <a href="https://www.credly.com/badges/a27f9afe-1728-4784-abc8-4a97ee3b794b/public_url" target="_blank" rel="nofollow noopener noreferrer" title="https://www.credly.com/badges/a27f9afe-1728-4784-abc8-4a97ee3b794b/public_url">
   <img align="right" height="150" width="150" alt="" loading="lazy" decoding="async" src="https://rootenginear.github.io/img/qiskit-badge.webp" />
 </a>
