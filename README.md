@@ -1,33 +1,33 @@
-<img title="Yo!" align="right" height="200" width="200" alt="" loading="lazy" decoding="async" src="https://raw.githubusercontent.com/rootEnginear/rootEnginear/master/img/nocap.png"/>
+# Suthep Chanchuphol
 
-# 🦄&#xFE0F; Howdy Poggers!
+🦄&#xFE0F; Software Engineer at [Softnetics](https://www.softnetics.tech/)
 
-💪&#xFE0F; **Pumped and full of energy!** My expertise is about crafting pixel-perfect websites from designs. When I don't code, I love introducing people to the realm of web development and discussing newly available technological tools on the market. I'm also a fan of quantum computing, so let's have some fun! 👨‍💻&#xFE0F;
+<img height="32" width="369.5" alt="" loading="lazy" decoding="async" src="https://skillicons.dev/icons?i=html,css,js,ts,svelte,react,nextjs,tailwind,git,nodejs" />
 
-## 🔮&#xFE0F; Technological Skills
+[Explore My Portfolio »](https://rootenginear.github.io/)
 
-- 🔥️&#xFE0F; **Proficient in:** HTML & CSS, JavaScript, TypeScript, Svelte
-- 👍️&#xFE0F; **Experienced with:** Vue.js, React.js (Next.js), SCSS, Git
-- 👌️&#xFE0F; **Familiar with:** Firebase, SQL, RDBMS (MySQL, MariaDB), Node.js
-- 🤸‍♂️️&#xFE0F; **Other interests:** UI/UX, Artificial Intelligences, Quantum Computing
+## Latest Work
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,svelte,vue,react,nextjs,scss,git,firebase,mysql,nodejs)](https://skillicons.dev)
+[<img align="right" height="140" width="250" alt="" loading="lazy" decoding="async" src="https://openpolicy.bangkok.go.th/og-image.png" />](https://openpolicy.bangkok.go.th/)
 
-<a href="https://www.credly.com/badges/a27f9afe-1728-4784-abc8-4a97ee3b794b/public_url" target="_blank" rel="nofollow noopener noreferrer" title="https://www.credly.com/badges/a27f9afe-1728-4784-abc8-4a97ee3b794b/public_url">
-  <img align="right" height="150" width="150" alt="" loading="lazy" decoding="async" src="https://rootenginear.github.io/img/qiskit-badge.webp" />
-</a>
+### Bangkok Open Policy [![open website](https://raw.githubusercontent.com/rootEnginear/rootEnginear/master/img/external-link.svg)](https://openpolicy.bangkok.go.th/)
 
-## 🏆️&#xFE0F; Achievements
+A website that gathers information and progress of Bangkok's policies, revealing work transparently. It allows the public to follow, check, and contribute ideas at every step, because a good city starts with policies where everyone participates.
+ 
+- Advise teammates on designing specific web animations
+- Code sankey diagram animation and overview page of the website
 
-- IBM Certified Associate Developer in Quantum Computation using Qiskit v0.2x 
-- Outstanding Award in 18th Young Webmaster Camp
+[Dive Into My Work »](https://rootenginear.github.io/#work-experiences)
 
-## 📰&#xFE0F; Articles
+## Side Projects
 
-- [อยากรู้พื้นฐาน Quantum Computing? งั้นก็ลองสร้างมันขึ้นมาสิ!](https://rootenginear.gitbook.io/blog/qcom/qsim)
+### Minecraft "Better Than Adventure" Mods [![open website](https://raw.githubusercontent.com/rootEnginear/rootEnginear/master/img/external-link.svg)](https://rootenginear.github.io/bta-mods/)
 
-Find out what I have learned in my university year and more interesting things on [my blog](https://rootenginear.gitbook.io/blog/)!
+<a href="https://rootenginear.github.io/bta-mods/"><img title="Carry Cake and Pie" height="128" width="128" alt="Carry Cake and Pie" loading="lazy" decoding="async" src="https://raw.githubusercontent.com/rootEnginear/bta-rootenginear-mods/refs/heads/carry-cake-and-pie/src/main/resources/icon.png"></a>
+<a href="https://rootenginear.github.io/bta-mods/"><img title="Sort Chest" height="128" width="128" alt="Sort Chest" loading="lazy" decoding="async" src="https://raw.githubusercontent.com/rootEnginear/bta-rootenginear-mods/refs/heads/sort-chest/src/main/resources/icon.png"></a>
+<a href="https://rootenginear.github.io/bta-mods/"><img title="Leaves Always Falling" height="128" width="128" alt="Leaves Always Falling" loading="lazy" decoding="async" src="https://raw.githubusercontent.com/rootEnginear/bta-rootenginear-mods/refs/heads/leaves-always-falling/src/main/resources/icon.png"></a>
+<a href="https://rootenginear.github.io/bta-mods/"><img title="Craftable Chainmail Armor" height="128" width="128" alt="Craftable Chainmail Armor" loading="lazy" decoding="async" src="https://raw.githubusercontent.com/rootEnginear/bta-rootenginear-mods/refs/heads/craftable-chainmail-armor/src/main/resources/icon.png"></a>
+<a href="https://rootenginear.github.io/bta-mods/"><img title="Proximity Chat" height="128" width="128" alt="Proximity Chat" loading="lazy" decoding="async" src="https://raw.githubusercontent.com/rootEnginear/bta-rootenginear-mods/refs/heads/proximity-chat/src/main/resources/icon.png"></a>
+<a href="https://rootenginear.github.io/bta-mods/"><img title="Bit by Bit" height="128" width="128" alt="Bit by Bit" loading="lazy" decoding="async" src="https://raw.githubusercontent.com/rootEnginear/bta-rootenginear-mods/refs/heads/bit-by-bit/src/main/resources/icon.png"></a>
 
-## 🕹&#xFE0F; Interesting Projects
-
-Check out these poggers 👇&#xFE0F;
+[View My Creations »](https://rootenginear.github.io/#side-projects)
