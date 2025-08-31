@@ -8,14 +8,16 @@
 
 ## Latest Work
 
-[<img align="right" height="140" width="250" alt="" loading="lazy" decoding="async" src="https://openpolicy.bangkok.go.th/og-image.png" />](https://openpolicy.bangkok.go.th/)
+[<img align="right" height="140" width="250" alt="" loading="lazy" decoding="async" src="https://www.siamparagon.co.th/opengraph.png" />](https://www.siamparagon.co.th/)
 
-### Bangkok Open Policy [![open website](images/external-link.svg)](https://openpolicy.bangkok.go.th/)
+### Siam Paragon [![open website](images/external-link.svg)](https://www.siamparagon.co.th/)
 
-A website that gathers information and progress of Bangkok's policies, revealing work transparently. It allows the public to follow, check, and contribute ideas at every step, because a good city starts with policies where everyone participates.
- 
-- Advise teammates on designing specific web animations
-- Code sankey diagram animation and overview page of the website
+Led the full-stack development of a new, high-profile website for Siam Paragon, managing the frontend from the ground up and collaborating with a team on backend and CMS development.
+
+- Navigated complex stakeholder relationships, securing resources and aligning on project goals with company leadership.
+- Managed the development process through major design changes, ensuring a smooth project progression despite timeline adjustments.
+- Spearheaded client communication to resolve issues and meet project requirements.
+- Delivered a high-quality frontend experience using Next.js, significantly upgrading the site's visual design.
 
 [Dive Into My Work »](https://rootenginear.github.io/#work-experiences)
 
